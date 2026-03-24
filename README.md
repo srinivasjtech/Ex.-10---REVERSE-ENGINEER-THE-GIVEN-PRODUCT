@@ -37,7 +37,7 @@
 
 ### Output:
 
-<img width="1600" height="895" alt="568437304-88474af1-3e2c-447b-9922-bbfc6d361b24" src="https://github.com/user-attachments/assets/ce8dfd6e-0950-47d4-b108-bf5f2045db0f" />
+<img width="1322" height="750" alt="Screenshot 2026-03-24 204027" src="https://github.com/user-attachments/assets/873bb608-6e5d-433b-be94-36d66e12e491" />
 
 ### Name:Srinivas J
 ### Register Number:212225230276
